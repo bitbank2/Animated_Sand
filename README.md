@@ -2,7 +2,7 @@ Animated Sand demo<br>
 Project started 2/2/2019<br>
 Written by Larry Bank<br>
 bitbank@pobox.com<br>
-Based on Phil Burgess's Animated Sand code<br>
+Based on Phil Burgess' Animated Sand code<br>
 <br>
 [![Demo video](https://img.youtube.com/vi/ktr4Itf9JtU/0.jpg)](https://www.youtube.com/watch?v=ktr4Itf9JtU)
 
@@ -23,10 +23,8 @@ following changes:<br>
 - Fixed bug in collision logic which allowed grains to overlap<br>
 <br>
 This code depends on my oled_96 library. You can download it here:<br>
-<br>
 https://github.com/bitbank2/oled_96
 <br>
-
 If you find this code useful, please consider buying me a cup of coffee
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SR4F44J2UR8S4)
